@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29424.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackTXDemo", "HackTXDemo\HackTXDemo.csproj", "{B59F6495-1912-471D-BCD3-746D1D44BB38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackTXDemo", "HackTXDemo\HackTXDemo.csproj", "{C36F1BC3-56C6-4F21-AA22-996C4BF72F9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B59F6495-1912-471D-BCD3-746D1D44BB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B59F6495-1912-471D-BCD3-746D1D44BB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B59F6495-1912-471D-BCD3-746D1D44BB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B59F6495-1912-471D-BCD3-746D1D44BB38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C36F1BC3-56C6-4F21-AA22-996C4BF72F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36F1BC3-56C6-4F21-AA22-996C4BF72F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36F1BC3-56C6-4F21-AA22-996C4BF72F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36F1BC3-56C6-4F21-AA22-996C4BF72F9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
